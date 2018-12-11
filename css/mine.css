@@ -1,0 +1,31 @@
+td {
+    border-left: 1px solid rgba(0,0,0,0.12) !important;
+    border-right: 1px solid rgba(0,0,0,0.12)!important;
+}
+th{
+    text-align: center!important;
+}
+.active{
+    background: #546e7a;
+}
+/*#createTableWrapper{*/
+    /*display: none;*/
+/*}*/
+/*#addButton{*/
+    /*display: none;*/
+/*}*/
+/*#searchWrapper{*/
+    /*display: none;*/
+/*}*/
+#myTable input {
+    border: none !important;
+
+}
+#tHead{
+    background: #e0e0e0;
+    border: 1px solid #e0e0e0;
+}
+th:hover{
+    background: red;
+    border: 1px solid #e0e0e0;
+}
